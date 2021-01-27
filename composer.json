@@ -10,12 +10,6 @@
     "guzzlehttp/oauth-subscriber": "0.3.*",
     "symfony/validator": "^3.0.0"
   },
-  "require-dev": {
-    "monolog/monolog": "~1.0",
-    "phpspec/phpspec": "~6.2",
-    "phpunit/phpunit": "^8.5",
-    "symfony/yaml": "^4.4"
-  },
   "config": {
     "bin-dir": "bin"
   },
